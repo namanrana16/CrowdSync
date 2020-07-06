@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30060571717",
+    "firebase_url": "https://projectredx-54c23.firebaseio.com",
+    "project_id": "projectredx-54c23",
+    "storage_bucket": "projectredx-54c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30060571717:android:39ea3e10a4559d444e472c",
+        "android_client_info": {
+          "package_name": "com.example.redx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30060571717-bfbp9q989nailt80g2jt4uu3qbgbl5au.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.redx",
+            "certificate_hash": "b53770cd019c3081d4ea9bdcfdb33c190bdbdde1"
+          }
+        },
+        {
+          "client_id": "30060571717-j1op4nehaeienf5if46h740agpc7fic2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUIE1UqltVxqT_Y_JWHWpVPW_-VFWBOaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30060571717-j1op4nehaeienf5if46h740agpc7fic2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

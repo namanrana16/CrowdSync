@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/allerta_stencil</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/julius_sans_one</item>
+        <item>@font/libre_franklin_thin</item>
+        <item>@font/michroma</item>
+        <item>@font/montserrat_subrayada_bold</item>
+        <item>@font/syncopate</item>
+    </array>
+</resources>
