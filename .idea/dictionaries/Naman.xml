@@ -1,6 +1,7 @@
 <component name="ProjectDictionaryState">
   <dictionary name="Naman">
     <words>
+      <w>alreadyhaveanaccount</w>
       <w>confirmpassword</w>
       <w>dont</w>
       <w>edittext</w>
@@ -12,6 +13,13 @@
       <w>libre</w>
       <w>lockfocus</w>
       <w>loginbutton</w>
+      <w>loginlink</w>
+      <w>personfocus</w>
+      <w>phonefocus</w>
+      <w>signin</w>
+      <w>signup</w>
+      <w>signupbutton</w>
+      <w>sigupbutton</w>
     </words>
   </dictionary>
 </component>
