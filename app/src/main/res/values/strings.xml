@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Prototype1</string>
+    <string name="app_name">CrowdSync</string>
    <string name="Login">Login</string>
     <string name ="Welcome">Welcome !</string>
     <string name ="google">Sign in With Google</string>
