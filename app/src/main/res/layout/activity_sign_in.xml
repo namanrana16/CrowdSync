@@ -35,7 +35,6 @@
         android:background="@drawable/loginbutton"
         android:fontFamily="@font/libre_franklin_thin"
         android:text="@string/Login"
-        android:onClick="login"
 
         android:textAllCaps="false"
         android:textColor="@color/White"

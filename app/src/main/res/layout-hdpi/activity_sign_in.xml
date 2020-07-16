@@ -3,9 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto" >
 
-    <data>
-
-    </data>
+    <data />
 
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -29,7 +27,7 @@
             app:layout_constraintVertical_bias="0.243" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/loginbutton"
             android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:background="@drawable/loginbutton"
@@ -49,7 +47,7 @@
             app:layout_constraintVertical_bias="0.241" />
 
         <Button
-            android:id="@+id/googlesignin"
+            android:id="@+id/googlesigninbutton"
             android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:background="@drawable/googlebutton"
@@ -116,11 +114,11 @@
             android:text="@string/or"
             android:textColor="@color/Gray"
             android:textSize="30sp"
-            app:layout_constraintBottom_toTopOf="@+id/button2"
+            app:layout_constraintBottom_toTopOf="@+id/googlesigninbutton"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.44"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button"
+            app:layout_constraintTop_toBottomOf="@+id/loginbutton"
             app:layout_constraintVertical_bias="0.555" />
 
         <TextView
@@ -157,7 +155,7 @@
             android:layout_marginTop="9dp"
             android:layout_marginBottom="9dp"
             android:visibility="invisible"
-            app:layout_constraintBottom_toTopOf="@+id/button"
+            app:layout_constraintBottom_toTopOf="@+id/googlesigninbutton"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.437"
             app:layout_constraintStart_toStartOf="parent"

@@ -128,7 +128,6 @@
             android:layout_marginBottom="7dp"
             android:layout_toEndOf="@id/alreadyhaveanaccount"
             android:background="?android:attr/selectableItemBackground"
-            android:onClick="signin"
             android:text="@string/Login"
             android:textAlignment="textStart"
             android:textColor="@color/offDarkOrange"
