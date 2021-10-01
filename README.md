@@ -1,11 +1,5 @@
-# CrowdSync by ProXima
-OVERVIEW
-CrowdSync is a platform for organizations like governments, companies, star-ups, educational institutions etc. and other creatives/individuals that want to get surveys, opinions, polls, ideas, suggestions or solutions to various problems/decisions taken by the said organization/individual.
-
-GOALS
-1.	Streamline the process of interaction of the end-user with the organization/individual.
-2.	Free up the manpower required to take and analyze surveys/suggestions/ideas.
-3.	Make the process less time consuming and easier providing a single platform.
-4.	Promote healthy discussion between people to open them to new ideas.
-5.	Involving experts in various fields to help the organization/individual who would otherwise not be able to contribute as much to the notion.
-
+# CrowdSync
+![WhatsApp Image 2021-10-01 at 19 16 57](https://user-images.githubusercontent.com/47075510/135633534-c2c26d9c-f05f-4231-96d4-baf5e5650d5e.jpeg)
+![WhatsApp Image 2021-10-01 at 19 16 57 (1)](https://user-images.githubusercontent.com/47075510/135633543-44ee0ab9-3803-4f15-a443-5c7fcc97ebc1.jpeg)
+![WhatsApp Image 2021-10-01 at 19 16 57 (2)](https://user-images.githubusercontent.com/47075510/135633546-e8d393c9-3097-499f-84b2-017dd393b347.jpeg)
+![WhatsApp Image 2021-10-01 at 19 16 57 (3)](https://user-images.githubusercontent.com/47075510/135633548-99caf5e3-1696-4088-947e-fcbe90390957.jpeg)
