@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         val view = binding2.root
         setContentView(view)
         Handler().postDelayed({
-        val intent = Intent(this@MainActivity,SignIn::class.java)
+        val intent = Intent(this@MainActivity,HomeActivity::class.java)
         startActivity(intent)
     },2000)
 }

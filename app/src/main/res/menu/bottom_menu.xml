@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item
-        android:id="@+id/fragment"
-        android:icon="@drawable/ic_baseline_home_24"
-        android:title="@string/home"
+<item
+    android:id="@+id/homeFragment"
+    android:icon="@drawable/ic_baseline_home_24"
+    android:title="@string/home"
 
-        />
-    <item
-        android:id="@+id/searchFragment"
-        android:icon="@drawable/ic_baseline_search_24"
-        android:title="@string/search"
-        />
-    <item
-        android:id="@+id/addPostFragment"
-        android:icon="@drawable/ic_baseline_add_24"
-        android:title="@string/add"
-        />
-    <item
-        android:id="@+id/notificationFragment"
-        android:icon="@drawable/ic_baseline_notifications_24"
-        android:title="@string/notifications"
-        />
-    <item
-        android:id="@+id/messagesFragment"
-        android:icon="@drawable/ic_baseline_chat_24"
-        android:title="@string/chats"
-        />
+    />
+<item
+    android:id="@+id/searchFragment"
+    android:icon="@drawable/ic_baseline_search_24"
+    android:title="@string/search"
+    />
+<item
+    android:id="@+id/addPostFragment"
+    android:icon="@drawable/ic_baseline_add_24"
+    android:title="@string/add"
+    />
+<item
+    android:id="@+id/notificationsFragment"
+    android:icon="@drawable/ic_baseline_notifications_24"
+    android:title="@string/notifications"
+    />
+<item
+    android:id="@+id/messagesFragment"
+    android:icon="@drawable/ic_baseline_chat_24"
+    android:title="@string/chats"
+    />
 </menu>

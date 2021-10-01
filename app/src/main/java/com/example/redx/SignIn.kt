@@ -4,10 +4,11 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Patterns
-
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
+import com.example.redx.R.id.Signuplink
+import com.example.redx.R.id.loginbutton
 import com.example.redx.databinding.ActivitySignInBinding
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
@@ -26,21 +27,25 @@ private lateinit var binding: ActivitySignInBinding
         binding = ActivitySignInBinding.inflate(layoutInflater)
         val view = binding.root
         setContentView(view)
-        val button = findViewById<Button>(R.id.Signuplink)
+
+
+        val button = findViewById<Button>(Signuplink)
         button.setOnClickListener {
             val intent= Intent(this,SignUp::class.java)
-            startActivity(intent)
-
-
-            
+            this.startActivity(intent)
         }
+
+
+        val signinbutton = findViewById<Button>(loginbutton)
+        signinbutton.setOnClickListener {
+            val intent= Intent(this,HomeActivity::class.java)
+            this.startActivity(intent)
+        }
+
 
 
         auth = Firebase.auth
     }
-
-
-
        }
 
 
